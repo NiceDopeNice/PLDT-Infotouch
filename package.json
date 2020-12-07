@@ -1,0 +1,27 @@
+{
+  "name": "pldt_infotouch",
+  "version": "1.0.0",
+  "description": "My great Nuxt.js project",
+  "author": "nicedope",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "jquery": "^3.4.1",
+    "nuxt": "^2.0.0",
+    "v-idle": "^0.1.1",
+    "vue-ip": "^2.0.1",
+    "vue-jquery": "^1.0.6",
+    "vue-router-back-button": "^1.2.3",
+    "vue-slick-carousel": "^1.0.5",
+    "vue-videojs": "0.0.4",
+    "vue2-google-maps": "^0.10.7",
+    "vuejs-google-maps": "0.0.10"
+  },
+  "devDependencies": {}
+}
